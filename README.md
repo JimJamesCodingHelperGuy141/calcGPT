@@ -33,3 +33,7 @@ I could not get the program to work when just double clicking on the .py file so
  - There may some issues getting input from the user that you may run into, but I didnt expereince any.
  - I am using Python 3.14
  - I am on Windows 11 25H2
+
+ - **Credit**
+ - Big thanks to novano1d for building the base for this fork. I only just had to make a few alterations to make it work with newer versions of OpenAI and also making it work with GroqCloud because I didnt want to pay to use one of Open API's keys.
+ - Big thanks to GroqCloud for having a really good and free AI service.
