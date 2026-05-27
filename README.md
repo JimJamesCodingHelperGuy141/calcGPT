@@ -1,4 +1,4 @@
-# Interfacing ChatGPT on a TI 84 Plus CE Calculator
+# Interfacing ChatGPT on a TI 84 Plus CE Calculator (Updated as of 5/27/26)
 This code allows ChatGPT to be interfaced on a TI 84 Plus CE calculator. Using the CE C/C++ Toolchain, a program was written that allows users to enter a prompt on the calculator and send the prompt to a computer connected over USB (via serial). The computer then takes the prompt, makes the API call, and passes the response back to the calculator over serial.
 ## Installation
 To use this program, you will need to install the following:
@@ -12,7 +12,7 @@ To use this program, you will need to install the following:
  - The OpenAI Python library (can be installed by running `pip install openai`)
 
 **IMPORTANT READ**
-I could not get the program to work when just double clicking on the .py file so yes it is necessary to open it as I do from the terminal using instructions below.
+I could not get the program to work when just double clicking on the .py file so yes it is necessary to open it as I do from the terminal using instructions below. ALSO when typing in the prompt on the calculator, the screen sometimes shows what you press isnt whats displayed on the screen. It first it may be some thing random or a previous message gets shown altogether, but thats just a visual bug. When ever you type another letter after that, or a space bar it gets reverted to what you acually put down.
 
 ## Usage
 
