@@ -13,8 +13,7 @@ To use this program, you will need to install the following:
  - The OpenAI Python library (can be installed by running `pip install openai`)
 
 **IMPORTANT READ**
-The Demo.8xp file is kinda broken and has a tendancy to just clear all of your ram when ever you type alot of prompts or when you exit the program. Idk why it does that yet since I havent modified that file its still the same as in the orginal project I forked this from. I plan to fix this in the future along with other varius improvemtnts. I could not get the program to work when just double clicking on the .py file so yes it is necessary to open it as I do from the terminal using instructions below. ALSO when typing in the prompt on the calculator, the screen sometimes shows what you press isnt whats displayed on the screen. It first it may be some thing random or a previous message gets shown altogether, but thats just a visual bug. When ever you type another letter after that, or a space bar it gets reverted to what you acually put down.
-
+I could not get the program to work when just double clicking on the .py file so yes it is necessary to open it as I do from the terminal using instructions below. 
 ## Usage
 
  1. Connect the calculator to your computer via USB.
