@@ -4,6 +4,7 @@ This code allows ChatGPT to be interfaced on a TI 84 Plus CE calculator. Using t
 To use this program, you will need to install the following:
 
  - TI Connect™ CE software to transfer the program onto the calculator (available from the TI website), or alternatively you can go to "ticalc.link" website to transfer the .8xp file
+ - CE Libraries for the TI 84 Plus CE which can be downloaded from here https://github.com/CE-Programming/libraries/releases/tag/v15.0
  - The DEMO.8xp program (included in this repository)
  - calcgpt.py (included in this repository)
  - Python (available from the Python website)
